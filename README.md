@@ -10,3 +10,6 @@ Interactive Power BI dashboard analyzing **32.87M revenue** and **1.64M profit**
 - **Category Performance:** High demand identified in **Electronics, Fashion, and Beauty**.
 - **Regional Sales:** Top revenue generated from **North America, Asia, and Middle East**.
 - **Payment Trends:** Customer preference leaning towards **UPI and Wallet** payments.
+
+## 🚀 Check my Analysis on Kaggle
+https://www.kaggle.com/code/litonislam/amazon-sales-revenue-data-visualisation
