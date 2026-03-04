@@ -1,11 +1,10 @@
+Liton Islam 
+TO me
+litonislamnext@gmail.com 
 # Amazon-Sales-Analysis-Dashboard-Power-BI
  Comprehensive Amazon Sales Dashboard analyzing 32.87M revenue and 1.64M profit. Features include category-wise performance (Electronics, Fashion), regional trends (Asia, Europe), and payment method insights (UPI, Wallet) to drive data-driven business growth and inventory optimization."
 ## 📦 Amazon Sales Analysis Dashboard
 Interactive Power BI dashboard analyzing **32.87M revenue** and **1.64M profit** to drive business growth.
-Liton Islam 
-TO me
-litonislamnext@gmail.com 
-
 ![Amazon Sales Dashboard](https://raw.githubusercontent.com/Litonislam-DA/Amazon-Sales-Analysis-Dashboard-Power-BI/main/Amazon_dashboard.png)
 
 #### 📊 Key Business Insights:
