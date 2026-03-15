@@ -10,7 +10,7 @@ litonislamnext@gmail.com
  
 
 ## 📦 Amazon Sales Analysis Dashboard
-===
+...........
 
 ===
 ![Amazon Sales Dashboard](https://raw.githubusercontent.com/Litonislam-DA/Amazon-Sales-Analysis-Dashboard-Power-BI/main/Amazon_dashboard.png)
