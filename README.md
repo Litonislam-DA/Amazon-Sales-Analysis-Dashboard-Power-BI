@@ -10,9 +10,9 @@ litonislamnext@gmail.com
  
 
 ## 📦 Amazon Sales Analysis Dashboard
-----
+---
 
-----
+---
 ![Amazon Sales Dashboard](https://raw.githubusercontent.com/Litonislam-DA/Amazon-Sales-Analysis-Dashboard-Power-BI/main/Amazon_dashboard.png)
 
 Interactive Power BI dashboard analyzing **32.87M revenue** and **1.64M profit** to drive business growth.
