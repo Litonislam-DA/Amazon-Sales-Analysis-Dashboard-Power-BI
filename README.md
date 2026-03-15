@@ -13,8 +13,9 @@ litonislamnext@gmail.com
 ---
 
 ---
-Interactive Power BI dashboard analyzing **32.87M revenue** and **1.64M profit** to drive business growth.
 ![Amazon Sales Dashboard](https://raw.githubusercontent.com/Litonislam-DA/Amazon-Sales-Analysis-Dashboard-Power-BI/main/Amazon_dashboard.png)
+
+Interactive Power BI dashboard analyzing **32.87M revenue** and **1.64M profit** to drive business growth.
 
 #### 📊 Key Business Insights:
 - **Financial Overview:** Total Revenue of **32.87M** with a Net Profit of **1.64M**.
